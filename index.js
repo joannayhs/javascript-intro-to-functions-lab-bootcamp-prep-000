@@ -20,6 +20,4 @@ function sayHiToGrandma (){
   return `I love you, too.`
 }
 
-sayHiToGrandma(lowercase)
-sayHiToGrandma(uppercase)
-sayHiToGrandma(love)
+
